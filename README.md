@@ -1,3 +1,3 @@
 # learning_python
 This repository is to store practice code created while studying python
-Nothin fancy here :)
+Nothing fancy here :)
